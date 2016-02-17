@@ -1,0 +1,10 @@
+{
+  "name": "drupal/encrypt_defuse",
+  "description": "Provides an OpenSSL AES encryption method for Encrypt though the Defuse PHP Encryption library.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/encrypt_defuse",
+  "require": {
+    "defuse/php-encryption": "1.2.*"
+  }
+}
